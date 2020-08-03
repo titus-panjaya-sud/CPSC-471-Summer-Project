@@ -5,4 +5,4 @@ Harlan Chang
 Thomas-James Le
 Titus Sudarno
 Lily Tran
-Danlazo??? 
+Daniel Lazo
