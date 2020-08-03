@@ -1,0 +1,41 @@
+﻿Thomas-James Le
+Titus Sudarno
+Lily Tran
+Daniel Lazo
+Harlan Chang
+
+
+
+
+Application Type
+	Application-Layer
+	Transport Protocol
+	File Transfer
+	File Transfer protocol - data and control
+FTP [RFC 959]
+
+
+-----------------------------------
+Trivial File Transfer Protocol
+TFTP [RFC 1350]
+	TCP 20
+TCP 21
+
+
+
+
+-------------------------------
+UDP 69
+	HyperText Transfer 
+	HyperText Transfer Protocol
+HTTP [RFC 2616]
+	TCP 80
+	Email Exchange
+	Simple Mail Transfer Protocol
+SSH [RFC 5321]
+	TCP 25
+	
+
+
+
+Our plan for the project is to divide the code into 3 sections with get, put, and ls. By focusing on these three portions we’re focusing on only the client and server side portions. Above in the application layer protocol are the ideas that our code could run should we choose too. This allows us to route the proper ports and begin the initial transfers required for each command.
