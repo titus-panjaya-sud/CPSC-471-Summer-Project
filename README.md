@@ -3,6 +3,6 @@
 Group Members:
 Harlan Chang (espadatiburon@csu.fullerton.edu)
 Thomas-James Le (tjle@csu.fullerton.edu)
-Titus Sudarno
+Titus Sudarno (sudarno08@csu.fullerton.edu)
 Lily Tran
 Daniel Lazo
