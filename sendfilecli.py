@@ -143,7 +143,7 @@ while True:
 		#print the command's output
 		print recvAll(connSock, int(mySize))
 	#exit the program
-	elif(input[0:4] == 'exit'):
+	elif(input[0:4] == 'quit'):
 		break
 	
 #close the socket because we're done
