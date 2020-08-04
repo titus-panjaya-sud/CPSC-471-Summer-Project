@@ -1,6 +1,5 @@
 # CPSC 471 Summer Project
  
-Languaged Used: Python2
  
 Group Members:
 * Harlan Chang (espadatiburon@csu.fullerton.edu)
@@ -9,9 +8,9 @@ Group Members:
 * Lily Tran (derpyhooves@csu.fullerton.edu)
 * Daniel Lazo (dalazo@csu.fullerton.edu)
 
+Languaged Used: Python2 (This will not compile in Python 3)
 
 How to run:
-PREREQUISITE: Make sure you're using Python 2, not 3 because this will not compile in Python 3
 1. Run the file 'sendfileserv.py' using the command 'python sendfileserv.py <PORT NUMBER>' with your desired port number. This will start the server with the desired port.
 2. Run the file 'sendfilecli.py' using the command 'python sendfilecli.py <SERVER MACHINE> <SERVER PORT>' with your desired server and port number. This will start the client and have it connect to the server. During testing, we used 'localhost' as the server. The client will then display 'ftp> '. This means that the client is waiting for a command from the user. 
 3. Type in one of the available commands (get, put, ls, quit)
