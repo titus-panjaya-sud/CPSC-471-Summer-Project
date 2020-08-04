@@ -8,7 +8,7 @@ Group Members:
 * Lily Tran (derpyhooves@csu.fullerton.edu)
 * Daniel Lazo (dalazo@csu.fullerton.edu)
 
-Languaged Used: Python2 (This will not compile in Python 3)
+Language Used: Python2 (This will not compile in Python 3)
 
 How to run:
 1. Run the file 'sendfileserv.py' using the command 'python sendfileserv.py <PORT NUMBER>' with your desired port number. This will start the server with the desired port.
