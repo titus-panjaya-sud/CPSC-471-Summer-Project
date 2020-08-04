@@ -1,6 +1,6 @@
 # CPSC 471 Summer Project
  
-Languaged Used: 
+Languaged Used: Python2
  
 Group Members:
 * Harlan Chang (espadatiburon@csu.fullerton.edu)
